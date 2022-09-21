@@ -1,0 +1,59 @@
+
+
+table.maa{
+  width: 460px; 
+}
+table.peto{
+  width: 410px;
+}
+table.saalis{
+  width: 400px;
+}
+table.kasvi{
+  width: 463px;
+}
+#world{ 
+  padding-left: 20px;
+}
+ 
+table.worldClass {
+  border-collapse: collapse;
+}
+table.worldClass th, 
+table.worldClass td {
+  border: 1px solid black;
+}
+
+table.worldClass th, 
+table.worldClass td {
+  width: 20px;
+  height: 20px;
+  padding: 15px;
+  text-align: left;
+}
+
+#worldX{
+  text-align: right;
+  font-weight: normal;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  border-right-style: hidden;
+}
+table.list{
+  border-collapse: collapse;
+  width: 100%
+  
+}
+table.list,
+table.list th,
+table.list td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+  }
+#listid{
+  text-align: left;
+}
+table.list th,
+table.list.td{
+    padding: 15px;
+  }
